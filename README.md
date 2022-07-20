@@ -1,2 +1,2 @@
 # sendMail
-Simple NodeJs application to test sending emails using nodemailer
+Simple NodeJs application to test sending emails using nodemailer and ethereal SMTP
